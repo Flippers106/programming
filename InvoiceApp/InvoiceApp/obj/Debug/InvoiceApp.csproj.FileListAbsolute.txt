@@ -1,0 +1,45 @@
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe.config
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\App.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp_MarkupCompile.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp_MarkupCompile.lref
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\MainWindow.baml
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.g.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.Properties.Resources.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe.config
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\App.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp_MarkupCompile.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp_MarkupCompile.lref
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\MainWindow.baml
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.g.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.Properties.Resources.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\2\Starter\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.pdb
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe.config
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.pdb
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csprojAssemblyReference.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\MainWindow.g.cs
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\App.g.cs
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp_MarkupCompile.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp_MarkupCompile.lref
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\MainWindow.baml
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.g.resources
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.Properties.Resources.resources
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csproj.GenerateResource.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.exe
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.pdb

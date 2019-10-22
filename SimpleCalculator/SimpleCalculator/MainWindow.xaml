@@ -1,0 +1,23 @@
+﻿<Window x:Class="SimpleCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleCalculator"
+        mc:Ignorable="d"
+        Title="Simple Calculator" Height="226.8" Width="424.8" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="First Number:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="32,48,0,0"/>
+        <TextBox x:Name="txtFirstNumber" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" Margin="119,51,0,0"/>
+        <Label Content="Second Number:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,76,0,0"/>
+        <TextBox x:Name="txtSecondNumber" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" Margin="119,79,0,0"/>
+        <Button x:Name="btnAdd" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="55" Margin="30,112,0,0" FontSize="36" Height="43" VerticalContentAlignment="Center" Click="BtnAdd_Click"/>
+        <Button x:Name="btnSubtract" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="55" Margin="89,112,0,0" FontSize="36" Height="43" VerticalContentAlignment="Center" Click="BtnSubtract_Click"/>
+        <Button x:Name="btnMultiple" Content="*" HorizontalAlignment="Left" VerticalAlignment="Top" Width="55" Margin="147,112,0,0" FontSize="36" Height="43" VerticalContentAlignment="Center" Click="BtnMultiple_Click" />
+        <Button x:Name="btnDivide" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="55" Margin="206,112,0,0" FontSize="36" Height="43" VerticalContentAlignment="Center" Click="BtnDivide_Click" />
+        <Button x:Name="btnModulus" Content="%" HorizontalAlignment="Left" VerticalAlignment="Top" Width="55" Margin="264,112,0,0" FontSize="36" Height="43" VerticalContentAlignment="Center" Click="BtnModulus_Click" />
+        <Button x:Name="btnClear" Content="C" HorizontalAlignment="Left" VerticalAlignment="Top" Width="61" Margin="324,112,0,0" FontSize="36" Height="43" VerticalContentAlignment="Center" />
+        <TextBlock x:Name="tbAnswer" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="30,17,0,0" Width="355" Background="#FFDCDCE0" FontSize="18" TextAlignment="Right"/>
+
+    </Grid>
+</Window>

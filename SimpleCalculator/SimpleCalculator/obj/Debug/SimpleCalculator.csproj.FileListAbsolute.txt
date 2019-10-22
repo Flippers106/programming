@@ -1,0 +1,60 @@
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.lref
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.lref
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.lref
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Prog\Fall 2019\8.WPF with Operators\1.Demo\1\Starter\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.lref
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Hunter\OneDrive - New Brunswick Community College\Programming\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
