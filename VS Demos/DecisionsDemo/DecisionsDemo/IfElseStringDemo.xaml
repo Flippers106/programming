@@ -1,0 +1,14 @@
+﻿<Window x:Class="DecisionsDemo.IfElseStringDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DecisionsDemo"
+        mc:Ignorable="d"
+        Title="If Statement Demo w string" Height="160" Width="320" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Do you like ice cream?" HorizontalAlignment="Left" Margin="49,27,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtAnswer" HorizontalAlignment="Left" Height="23" Margin="190,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56"/>
+        <Button x:Name="btnShowMsg" Content="Show Message" HorizontalAlignment="Left" Margin="81,65,0,0" VerticalAlignment="Top" Width="156" FontWeight="Bold" Height="37" Click="btnShowMsg_Click"/>
+    </Grid>
+</Window>

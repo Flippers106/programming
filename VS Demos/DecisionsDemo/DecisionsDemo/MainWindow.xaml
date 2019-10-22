@@ -1,0 +1,16 @@
+﻿<Window x:Class="DecisionsDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DecisionsDemo"
+        mc:Ignorable="d"
+        Title="Menu" Height="391.034" Width="408.966" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="btnIf" Content="if Statement" HorizontalAlignment="Left" Margin="86,62,0,0" VerticalAlignment="Top" Width="244" RenderTransformOrigin="2.817,3.69" Height="56" FontSize="18" FontWeight="Bold" Click="btnIf_Click"/>
+        <Button x:Name="btnIfElse" Content="if/else Statement" HorizontalAlignment="Left" Margin="86,123,0,0" VerticalAlignment="Top" Width="244" RenderTransformOrigin="2.817,3.69" Height="56" FontSize="18" FontWeight="Bold" Click="btnIfElse_Click"/>
+        <Button x:Name="btnIfElseIfElse" Content="if/elseif/else statement" HorizontalAlignment="Left" Margin="86,184,0,0" VerticalAlignment="Top" Width="244" RenderTransformOrigin="2.817,3.69" Height="56" FontSize="18" FontWeight="Bold" Click="btnIfElseIfElse_Click"/>
+        <Button x:Name="btnIfElseString" Content="if/else Statement String" HorizontalAlignment="Left" Margin="86,245,0,0" VerticalAlignment="Top" Width="244" RenderTransformOrigin="2.817,3.69" Height="56" FontSize="18" FontWeight="Bold" Click="btnIfElseString_Click"/>
+
+    </Grid>
+</Window>

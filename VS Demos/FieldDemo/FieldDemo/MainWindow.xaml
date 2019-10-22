@@ -1,0 +1,15 @@
+﻿<Window x:Class="FieldDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FieldDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="101.2" Width="406.4" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <TextBox x:Name="txtRun" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="267,28,0,0"/>
+        <Button x:Name="btnEnter" Content="Enter" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="11,28,0,0" Click="BtnEnter_Click"/>
+        <Button x:Name="btnTotal" Content="Total" HorizontalAlignment="Left" Margin="143,28,0,0" VerticalAlignment="Top" Width="75" Click="BtnTotal_Click"/>
+
+    </Grid>
+</Window>
