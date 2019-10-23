@@ -1,0 +1,16 @@
+﻿<Window x:Class="DecisionsEx2.Ex2Pencils"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DecisionsEx2"
+        mc:Ignorable="d"
+        Title="Exercise 2 - Pencils" Height="250.8" Width="284.8" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="txtNumPencils" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Margin="168,26,0,0"/>
+        <Label Content="# of pencils to order:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="35,23,0,0" FontWeight="Bold"/>
+        <Button x:Name="btnPlaceOrder" Content="Place Order" HorizontalAlignment="Left" VerticalAlignment="Top" Width="205" Margin="35,54,0,0" Height="49" Click="BtnPlaceOrder_Click" />
+        <TextBlock x:Name="tbDisplay" HorizontalAlignment="Left" Margin="35,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="81" Width="205" Background="#FFF9F9F9"/>
+
+    </Grid>
+</Window>
